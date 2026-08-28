@@ -8,6 +8,7 @@ A growing collection of my accepted LeetCode solutions.
 | -: | --- | :---: | :---: | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C | [Solution](solutions/c/easy/0001-two-sum/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C | [Solution](solutions/c/medium/0215-kth-largest-element-in-an-array/) |
 
 ## Structure
 

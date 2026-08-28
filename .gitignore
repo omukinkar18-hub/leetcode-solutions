@@ -1,0 +1,13 @@
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# JavaScript / TypeScript
+node_modules/
+dist/

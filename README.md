@@ -6,6 +6,7 @@ A growing collection of my accepted LeetCode solutions.
 
 | # | Problem | Difficulty | Language | Solution |
 | -: | --- | :---: | :---: | --- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C | [Solution](solutions/c/easy/0001-two-sum/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
 
 ## Structure

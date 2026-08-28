@@ -19,4 +19,4 @@ solutions/<language>/<difficulty>/<problem-number>-<problem-slug>/
 
 ---
 
-Built as part of my ongoing interview-preparation practice.
+Built as part of my ongoing DSA preperation.

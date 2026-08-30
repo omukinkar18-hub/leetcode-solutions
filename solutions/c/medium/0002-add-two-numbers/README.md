@@ -1,0 +1,15 @@
+# 2. Add Two Numbers
+
+- **Difficulty:** Medium
+- **Link:** [LeetCode problem](https://leetcode.com/problems/add-two-numbers/)
+
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+- Time complexity: O(max(N, M))
+- Space complexity: O(max(N, M))
+
+### Example
+
+**Input:** `l1 = [2,4,3]`, `l2 = [5,6,4]`  
+**Output:** `[7,0,8]`  
+**Explanation:** 342 + 465 = 807.

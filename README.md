@@ -15,6 +15,7 @@ A growing collection of my accepted LeetCode solutions.
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | C | [Solution](solutions/c/easy/0014-longest-common-prefix/) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Easy | C | [Solution](solutions/c/easy/0019-remove-nth-node-from-end-of-list/) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | C | [Solution](solutions/c/easy/0020-valid-parentheses/) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | C | [Solution](solutions/c/hard/0023-merge-k-sorted-lists/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C | [Solution](solutions/c/medium/0215-kth-largest-element-in-an-array/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | C | [Solution](solutions/c/medium/2091-removing-minimum-and-maximum-from-array/) |

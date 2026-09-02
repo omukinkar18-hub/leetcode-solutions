@@ -9,6 +9,7 @@ A growing collection of my accepted LeetCode solutions.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C | [Solution](solutions/c/easy/0001-two-sum/) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | C | [Solution](solutions/c/medium/0002-add-two-numbers/) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | C | [Solution](solutions/c/hard/0004-median-of-two-sorted-arrays/) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | C | [Solution](solutions/c/medium/0007-reverse-integer/) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | C | [Solution](solutions/c/medium/0011-container-with-most-water/) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | C | [Solution](solutions/c/easy/0013-roman-to-integer/) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | C | [Solution](solutions/c/easy/0014-longest-common-prefix/) |

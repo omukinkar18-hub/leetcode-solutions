@@ -11,6 +11,7 @@ A growing collection of my accepted LeetCode solutions.
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | C | [Solution](solutions/c/hard/0004-median-of-two-sorted-arrays/) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | C | [Solution](solutions/c/medium/0011-container-with-most-water/) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | C | [Solution](solutions/c/easy/0013-roman-to-integer/) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | C | [Solution](solutions/c/easy/0014-longest-common-prefix/) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Easy | C | [Solution](solutions/c/easy/0019-remove-nth-node-from-end-of-list/) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | C | [Solution](solutions/c/easy/0020-valid-parentheses/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |

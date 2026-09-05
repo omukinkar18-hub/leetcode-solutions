@@ -23,6 +23,7 @@ A growing collection of my accepted LeetCode solutions.
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | C | [Solution](solutions/c/easy/3718-smallest-missing-multiple-of-k/) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | C | [Solution](solutions/c/medium/3876-construct-uniform-parity-array-ii/) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C | [Solution](solutions/c/easy/3903-smallest-stable-index-i/) |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | C | [Solution](solutions/c/medium/3904-smallest-stable-index-ii/) |
 
 ## Structure
 

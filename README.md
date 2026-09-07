@@ -17,6 +17,7 @@ A growing collection of my accepted LeetCode solutions.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | C | [Solution](solutions/c/easy/0020-valid-parentheses/) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | C | [Solution](solutions/c/hard/0023-merge-k-sorted-lists/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | C | [Solution](solutions/c/easy/0058-length-of-last-word/) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C | [Solution](solutions/c/medium/0075-sort-colors/) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | C | [Solution](solutions/c/easy/0088-merge-sorted-array/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C | [Solution](solutions/c/medium/0215-kth-largest-element-in-an-array/) |

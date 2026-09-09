@@ -24,6 +24,7 @@ A growing collection of my accepted LeetCode solutions.
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | C | [Solution](solutions/c/medium/2091-removing-minimum-and-maximum-from-array/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | C | [Solution](solutions/c/easy/3718-smallest-missing-multiple-of-k/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | C | [Solution](solutions/c/easy/3870-count-commas-in-range/) |
+| 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | C | [Solution](solutions/c/medium/3871-count-commas-in-range-ii/) |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | C | [Solution](solutions/c/medium/3876-construct-uniform-parity-array-ii/) |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | C | [Solution](solutions/c/easy/3903-smallest-stable-index-i/) |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | C | [Solution](solutions/c/medium/3904-smallest-stable-index-ii/) |

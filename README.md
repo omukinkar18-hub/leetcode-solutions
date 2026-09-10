@@ -19,6 +19,7 @@ A growing collection of my accepted LeetCode solutions.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | C | [Solution](solutions/c/easy/0058-length-of-last-word/) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C | [Solution](solutions/c/medium/0075-sort-colors/) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | C | [Solution](solutions/c/easy/0088-merge-sorted-array/) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | C | [Solution](solutions/c/easy/0171-excel-sheet-column-number/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C | [Solution](solutions/c/medium/0215-kth-largest-element-in-an-array/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | C | [Solution](solutions/c/medium/2091-removing-minimum-and-maximum-from-array/) |

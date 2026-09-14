@@ -22,6 +22,7 @@ A growing collection of my accepted LeetCode solutions.
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | C | [Solution](solutions/c/easy/0171-excel-sheet-column-number/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | C | [Solution](solutions/c/medium/0215-kth-largest-element-in-an-array/) |
+| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | C | [Solution](solutions/c/easy/0836-rectangle-overlap/) |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | C | [Solution](solutions/c/medium/2091-removing-minimum-and-maximum-from-array/) |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | C | [Solution](solutions/c/easy/3483-unique-3-digit-even-numbers/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | C | [Solution](solutions/c/easy/3718-smallest-missing-multiple-of-k/) |

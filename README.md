@@ -16,6 +16,7 @@ A growing collection of my accepted LeetCode solutions.
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Easy | C | [Solution](solutions/c/easy/0019-remove-nth-node-from-end-of-list/) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | C | [Solution](solutions/c/easy/0020-valid-parentheses/) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | C | [Solution](solutions/c/hard/0023-merge-k-sorted-lists/) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | C | [Solution](solutions/c/medium/0024-swap-nodes-in-pairs/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | C | [Solution](solutions/c/easy/0058-length-of-last-word/) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C | [Solution](solutions/c/medium/0075-sort-colors/) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | C | [Solution](solutions/c/easy/0088-merge-sorted-array/) |

@@ -19,6 +19,7 @@ A growing collection of my accepted LeetCode solutions.
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | C | [Solution](solutions/c/medium/0024-swap-nodes-in-pairs/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | C | [Solution](solutions/c/easy/0058-length-of-last-word/) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | C | [Solution](solutions/c/medium/0075-sort-colors/) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | C | [Solution](solutions/c/medium/0082-remove-duplicates-from-sorted-list-ii/) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | C | [Solution](solutions/c/easy/0088-merge-sorted-array/) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | C | [Solution](solutions/c/easy/0171-excel-sheet-column-number/) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | C | [Solution](solutions/c/easy/0203-remove-linked-list-elements/) |
